@@ -1,5 +1,6 @@
 
 <resources>
+    <string name="app_name">FilePickerLibrary</string>
     <string name="file_picker_permission_rationale_dialog_title">Permisos de almacenamiento de Lectura/Escritura</string>
     <string name="file_picker_permission_rationale_dialog_content">Necesitas permisos de lectura/escritura para acceder a los ficheros</string>
     <string name="file_picker_ok">OK</string>
